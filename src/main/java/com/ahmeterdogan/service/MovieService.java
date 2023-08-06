@@ -1,4 +1,4 @@
-package com.ahmeterdogan.data.service;
+package com.ahmeterdogan.service;
 
 import com.ahmeterdogan.data.entity.Movie;
 import com.ahmeterdogan.data.repository.MovieRepository;

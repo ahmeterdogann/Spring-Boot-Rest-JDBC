@@ -1,7 +1,7 @@
-package com.ahmeterdogan.data.controller;
+package com.ahmeterdogan.controller;
 
 import com.ahmeterdogan.data.entity.Movie;
-import com.ahmeterdogan.data.service.MovieService;
+import com.ahmeterdogan.service.MovieService;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
